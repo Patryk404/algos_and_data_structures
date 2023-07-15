@@ -1,0 +1,8 @@
+W przypadku b³êdu Visual Studio podobnego do "Nie znaleziono zestawu Windows SDK w wersji 8.1" zainstaluj ponownie SDK< np. ze strony:
+"https://developer.microsoft.com/pl-pl/windows/downloads/windows-10-sdk
+
+Nastêpnie, w Visual Studio wejdŸ do w³aœciwoœci projektu i zmieñ wersjê SDK na aktualn¹ - przyk³ad na rysunku "Korekta wersji SDK - przyk³ad.png"
+
+Kompilacja: Ctrl+Shift+B
+
+Uruchomienie: Ctrl-F5
